@@ -85,12 +85,12 @@ def analyze_url_image(api_key, image_url):
 # Usage example
 def main():
     api_key = (
-        "AIzaSyChawzna0i51r9gKLYlGvbHKlU4-SkuCzk"  # Replace with your actual API key
+        "AIzaSyChawzna0i51r9gKLYlGvbHKlU4-SkuCzk"  # Replace with your API key sir
     )
 
     # Analyze local image
     print("Analyzing Local Image...")
-    local_image_path = "asd.jpg"  # Replace with your image path
+    local_image_path = "asd.jpg"  # Add image path your sir
     analyze_local_image(api_key, local_image_path)
 
     print("\n" + "=" * 50 + "\n")
